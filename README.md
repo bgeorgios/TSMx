@@ -6,3 +6,7 @@ TSMx is an R script that was developed to facilitate multi-temporal-scale visual
 *TSMx for R was developed by Georgios Boumis; TSMx was originally conceptualized and created by Brad G. Peter in Microsoft Excel.*
 
 This tool accompanies a publication in preparation by Peter et al. (forthcoming): Peter, B. G., Messina, J. P., Breeze, V., Fung, C., Kapoor, A., and Fan, P. (in prepration) Modifiable spatiotemporal unit problems in remote sensing of agriculture: Evidence from rice production in Vietnam. Journal TBD. 
+
+## Need Help?
+Need help using RRIr scripts? Found an issue? Have a feature request? Check out my
+[personal blog](http://www.gboumis.com) and contact me via my LinkedIn profile found at the header.
